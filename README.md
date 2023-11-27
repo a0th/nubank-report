@@ -1,5 +1,9 @@
 # nubank-report
-Scrape Nubank desktop version of website to download your credit card expenses as a pandas DataFrame
+Scrape [Nubank](https://nubank.com.br/) desktop version of website to download your credit card expenses as a pandas DataFrame
+
+> [!IMPORTANT]
+> Nubank re-designed their website and this script is no longer working. I will update it as soon as I have time.
+
 
 ### Requirements
 `BeautifulSoup`, `pandas`
